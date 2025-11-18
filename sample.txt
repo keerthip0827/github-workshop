@@ -1,5 +1,1 @@
-sample1
-sample2
-
-hello world
-hello world2
+master branch
